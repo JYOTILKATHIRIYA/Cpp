@@ -1,0 +1,50 @@
+1.Stack is also called as...
+A.Last in first out
+B.First in last out
+C.Last in last out
+D.First in first out
+2.Which of the following data structure can not store the non-homogeneous data elements?
+A.Arrays
+B.Records
+C.Pointers
+D.Stacks
+3.Which of the following is non-liner data structure?
+A.Stacks
+B.List
+C.Strings
+D.Trees
+4.Header node is used assentinel in...
+A.Graphs
+B.Stacks
+C.Binary tree
+D.Queues
+5.Which data structure is used in breadth first search of a graph to hold nodes?
+A.Stack
+B.queue
+C.Tree
+D.Array
+6.Which of the following is not the internal sort?
+A.Insertion Sort
+B.Bubble Sort
+C.Merge Sort
+D.Heap Sort
+7.What will be the value of top, if there is a size of stack STACK_SIZE is 5 
+A.3
+B.6
+C.4
+D.7
+8.Which of the following data structure is more appropriate to represent a heap? 
+A.Two-dimensional array 
+B.Doubly linked list 
+C.Linear Array 
+D.Linked list
+9.Minimum number of fields in each node of a doubly linked list is...
+A.2 
+B.3 
+C.4 
+D.5
+10.A graph in which all vertices have equal degree is known as...
+A.Complete graph 
+B.Regular graph 
+C.Multi graph 
+D.Simple graph
